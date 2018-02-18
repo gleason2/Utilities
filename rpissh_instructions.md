@@ -21,7 +21,7 @@ This will be used to ssh in.
 
 4. Download this utility and make it executable:
 
-'chmod +x rpissh.sh`
+`chmod +x rpissh.sh`
 
 5. Add an alias to your .bashrc file.
 
@@ -29,7 +29,7 @@ This will be used to ssh in.
 
 Insert this line at the end, or wherever you like to keep custom aliases:
 
-`alias rpi='<path to rpissh.sh'`
+`alias rpi='<path to rpissh.sh>'`
 
 for example:
 
